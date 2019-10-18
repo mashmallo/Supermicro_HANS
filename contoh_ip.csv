@@ -1,0 +1,1 @@
+10.10.10.10 (Your existing IPMI IP),10.10.10.10 (Your new IPMI IP),255.255.255.0 (Your subnet),10.10.10.1 (Gateway of server),YOUR HOSTNAME
