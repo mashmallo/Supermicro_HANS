@@ -2,4 +2,4 @@ This code are using these libraries
 
 argparse==1.4.0
 requests==2.21.0
-urllib3==1.24.1
+urllib3==1.25.6
